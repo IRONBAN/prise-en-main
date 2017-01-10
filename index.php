@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>MON SITE AVEC GITUHB</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<header>
@@ -11,6 +12,7 @@
 	<main>
 		<section>
 			<h2>Ma permiere section</h2>
+			<p>du contenu pour la section</p>
 		</section>
 
 	</main>
